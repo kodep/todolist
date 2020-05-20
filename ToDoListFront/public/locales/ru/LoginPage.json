@@ -1,0 +1,17 @@
+{
+  "ButtonSingIn": "Войти",
+  "ButtonRegistration": "Регистрация",
+  "Password": "Пароль",
+  "RePassword": "Повторите пароль",
+  "Login": "Имя пользователя",
+  "BadEnter": "Неверное имя пользователя или пароль",
+  "Email": "Email",
+  "Agree": "Я согласен с правилами",
+  "LoginUp": "Вход",
+  "RegistrationUp": "Регистрация",
+  "WrongEmail": "Некорректный email",
+  "NotComparePassword": "Пароли не совпадают",
+  "SmallLogin": "Логин должен содержать больше 4х символов",
+  "SmallPassword": "Пароль должен содержать больше 4х символов",
+  "EmailIsUse": "Данный Email уже используется"
+}

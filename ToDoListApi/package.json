@@ -1,0 +1,34 @@
+{
+  "name": "ToDoListApi",
+  "version": "1.0.0",
+  "description": "Api for TODO List",
+  "main": "index.js",
+  "author": "Maxim <leksich99@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon --exec babel-node bin/www",
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/node": "^7.2.2",
+    "@babel/preset-env": "^7.2.3",
+    "nodemon": "^1.18.9"
+  },
+  "dependencies": {
+    "apollo-server": "^2.12.0",
+    "bcrypt": "^4.0.1",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "dotenv": "^6.2.0",
+    "graphql": "^15.0.0",
+    "graphql-iso-date": "^3.6.1",
+    "graphql-merge-resolvers": "^1.1.16",
+    "graphql-tools": "^5.0.0",
+    "http": "^0.0.1-security",
+    "jsonwebtoken": "^8.5.1",
+    "loadash": "^1.0.0",
+    "pg": "^7.7.1",
+    "sequelize": "^5.7.0"
+  }
+}

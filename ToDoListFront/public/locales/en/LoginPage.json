@@ -1,0 +1,17 @@
+{
+  "ButtonSingIn": "Sing in",
+  "ButtonRegistration": "Registration",
+  "Password": "Password",
+  "RePassword": "Rewrite password",
+  "Login": "Login",
+  "BadEnter": "Bad login or password",
+  "Email": "Email",
+  "Agree": "I agree with rules",
+  "LoginUp": "Login",
+  "RegistrationUp": "Registration",
+  "WrongEmail": "Incorrect email",
+  "NotComparePassword": "Passwords not compare",
+  "SmallLogin": "Login must be more then 4 symbols",
+  "SmallPassword": "Password must be more then 4 symbols",
+  "EmailIsUse": "This Email is already used"
+}

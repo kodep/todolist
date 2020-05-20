@@ -1,0 +1,58 @@
+{
+  "name": "todolistfront",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@babel/helper-call-delegate": "^7.8.7",
+    "@date-io/date-fns": "1.x",
+    "@material-ui/core": "^4.9.4",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/pickers": "^3.2.10",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "apollo-boost": "^0.4.7",
+    "apollo-cache-inmemory": "^1.6.5",
+    "apollo-client": "^2.6.8",
+    "apollo-link-context": "^1.0.20",
+    "apollo-link-http": "^1.5.17",
+    "date-fns": "^2.14.0",
+    "dotenv": "^8.2.0",
+    "final-form": "^4.19.1",
+    "graphql": "^15.0.0",
+    "i18next": "^19.3.2",
+    "i18next-browser-languagedetector": "^4.0.2",
+    "i18next-xhr-backend": "^3.2.2",
+    "mui-rff": "^2.1.15",
+    "react": "^16.13.0",
+    "react-apollo": "^3.1.5",
+    "react-dom": "^16.13.0",
+    "react-final-form": "^6.4.0",
+    "react-i18next": "^11.3.3",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.4.0",
+    "react-swipeable-views": "^0.13.9",
+    "styled-components": "^5.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
